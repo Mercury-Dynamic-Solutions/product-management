@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PW": "Johannes01",
+        "JWT_KEY": "40fad5bf-9509-4c43-a5fb-ff876cc8dbae"
+    }
+}
