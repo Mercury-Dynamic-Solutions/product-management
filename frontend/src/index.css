@@ -1,0 +1,48 @@
+/* Unorder List */
+
+li {
+  list-style: none;
+}
+
+/* Footer */
+footer {
+  background-color: #dfe4e8;
+}
+
+.lists {
+  margin-right: 20px;
+  text-align: left;
+}
+
+.main-footer {
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.footer-socials {
+  font-weight: 500;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-social-item {
+  color: black;
+  display: inline-block;
+  font-size: 30px;
+  height: 50px;
+  line-height: 25px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: opacity 300ms;
+  transition-property: opacity;
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+  width: 40px;
+}
+
+.footer-titles {
+  padding-left: 35px;
+}
