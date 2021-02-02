@@ -28,8 +28,8 @@ const Footer = () => {
                     <div className="lists">
                         <ul>
                             <li>Profile</li>
-                            <li>My Cart</li>
-                            <li>My Orders</li>
+                            <li>New Products</li>
+                            <li>Orders</li>
                         </ul>
                     </div>  
                     </Col>

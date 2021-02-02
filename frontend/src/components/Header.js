@@ -4,7 +4,6 @@ import {Navbar, Nav, Form, FormControl, Button, Container} from 'react-bootstrap
 const Header = () => {
     return (
         <header>
-       
             <Navbar bg="primary" variant="dark">
             <Container>
                 <Navbar.Brand href="#home">Mercury Dynamics</Navbar.Brand>
